@@ -1,0 +1,23 @@
+﻿<h1>New Spec</h1>
+
+<div class="source_info">
+    <p>New Spec description.</p>
+</div>
+
+<section class="source_section">
+    <h2>New Spec section</h2>
+
+    <div class="source_example">
+        <a href="#777" class="btn btn-primary">Button</a>
+    </div>
+
+    <h3>New Spec sub-section</h3>
+
+    <div class="source_example">
+        <div class="btn-group">
+            <button type="button" class="btn btn-default">Left</button>
+            <button type="button" class="btn btn-default">Middle</button>
+            <button type="button" class="btn btn-default">Right</button>
+        </div>
+    </div>
+</section>

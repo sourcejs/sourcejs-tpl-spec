@@ -1,0 +1,10 @@
+{
+  "name": "sourcejs-tpl-spec",
+  "version": "0.4.0",
+  "description": "Demo of basic starting Spec template.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sourcejs/sourcejs-tpl-spec.git"
+  },
+  "homepage": "https://github.com/sourcejs/sourcejs-tpl-spec"
+}
